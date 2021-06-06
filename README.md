@@ -8,6 +8,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px">
 
 ## 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eddwardmessias/)](https://www.linkedin.com/in/eddwardmessias/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edxtrader@gmail.com)](mailto:edxtrader@gmail.com) |  |
-|------------------------------------|--| 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eddwardmessias/)](https://www.linkedin.com/in/eddwardmessias/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edxtrader@gmail.com)](mailto:edxtrader@gmail.com) 
 
