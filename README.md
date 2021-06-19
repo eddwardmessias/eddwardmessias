@@ -1,6 +1,6 @@
 # Opa! I'm Eddward Messias!💻🌵            
 - 👨🏽‍🎓 | Acadêmico em Análise e Desenvolvimento de Sistemas.
-- 💻| Entusiasta do desenvolvimento  **back-end**.
+- 💻| Desenvolvedor em inicio de carreira. - **back-end**.
 - 🌵 | A coragem exige coragem em todos lugares.              
 
 
