@@ -1,6 +1,6 @@
 # Opa! I'm Eddward Messias!💻🌵            
 - 👨🏽‍🎓 | Acadêmico em Análise e Desenvolvimento de Sistemas.
-- 💻| Desenvolvedor em inicio de carreira. 
+- 💻| Desenvolvedor Java. 
 - 🌵 | A coragem exige coragem em todos lugares.              
 
 
