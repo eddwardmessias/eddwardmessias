@@ -2,7 +2,7 @@
 - 👨🏽‍🎓 | Acadêmico em Análise e Desenvolvimento de Sistemas.
 - 💻| Desenvolvedor Java. 
 - 🌵 | A coragem exige coragem em todos lugares.              
-
+- 🌐 | https://eddwardmessias.netlify.app
 
 <h2 align="left" >Linguagens</h2>
 <p float="left">
