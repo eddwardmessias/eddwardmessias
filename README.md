@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
 
 # Opa! I'm Eddward Messias!💻🌵   
-- 👨🏽‍🎓 | Desenvove
-- 💻| Desenvolvedor Java. 
+- 💻 | Desenvolvedor Back-end.
 - 🌵 | A coragem exige coragem em todos lugares.              
 - 🌐 | https://eddwardmessias.netlify.app
 
-<h2 align="left" >Ferramentas & Tecnologias</h2>
+<h2 align="left" >Tecnologias</h2>
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="44" height="44" >&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="53" height="53" >&nbsp;&nbsp; 
