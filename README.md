@@ -4,6 +4,7 @@
 - 💻 | Desenvolvedor Back-end.
 - 🌵 | A coragem exige coragem em todos lugares.              
 - 🌐 | https://eddwardmessias.netlify.app
+- 📚 | 15/nov - Repositórios iniciais privados e início de uma nova fase de estudos.
 
 <h2 align="left" >Tecnologias</h2>
 <p float="left">
