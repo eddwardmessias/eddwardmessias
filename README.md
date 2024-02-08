@@ -16,7 +16,6 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="44" height="44" >&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="44" height="44" >&nbsp;&nbsp;
 <img src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" alt="AWS" width="43" height="43" >&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="57" height="57" >&nbsp;&nbsp;
 </p>
 
 <h2 align="left">📂 Informações</h2>
