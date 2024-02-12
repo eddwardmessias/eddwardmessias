@@ -3,7 +3,7 @@
 # Opa! I'm Eddward Messias!💻🌵   
 - 💻 | Desenvolvedor Back-end.
 - 🌵 | A coragem exige coragem em todos lugares.              
-- 🌐 | https://eddwardmessias.netlify.app
+- 🌐 | https://eddwardmessias.netlify.app/links
 - 📚 | Repositórios iniciais privados e início de uma nova fase de estudos.
 
 <h2 align="left" >🖥 Tecnologias</h2>
