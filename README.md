@@ -1,10 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
 
 # Opa! I'm Eddward Messias!💻🌵   
-- 💻 | Desenvolvedor Back-end.
-- 🌵 | A coragem exige coragem em todos lugares.              
+- 💻 | Desenvolvedor Back-end.           
 - 🌐 | https://eddwardmessias.netlify.app/links
-- 📚 | Repositórios iniciais privados e início de uma nova fase de estudos.
+- 🌵 | A coragem exige coragem em todos lugares.   
 
 <h2 align="left" >🖥 Tecnologias</h2>
 <p float="left">
