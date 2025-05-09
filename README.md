@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
 
-# Opa! I'm Eddward Messias!💻🌵   
+# Opa! I'm Eddward!💻🌵   
 - 💻 | Desenvolvedor Back-end.           
-- 🌐 | https://eddwardmessias.netlify.app/links
 - 🌵 | A coragem exige coragem em todos lugares.   
 
 <h2 align="left" >🖥 Tecnologias</h2>
@@ -23,8 +22,4 @@
  - [Resumos](https://github.com/eddwardmessias): meus das tecnologias que estou estudando.
  - [Certificados](https://github.com/eddwardmessias): não tão imporntante, apenas repositório para guardar arquivos dos mesmos.
 
-<h2 align="left" >🌐 Redes</h2>
-<a href="https://www.linkedin.com/in/eddwardmessias" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
-<a href = "mailto:eddward.messias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
-<a href="https://discord.com/#6263" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> &nbsp;
-<a href="https://www.hackerrank.com/eddwardmessias" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
