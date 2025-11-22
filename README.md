@@ -1,23 +1,18 @@
-# Opa! I'm Eddward!💻🌵   
-- 💻 | Desenvolvedor Back-end.           
-- 🌵 | A coragem exige coragem em todos lugares.   
+# Hey there! 👋  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwardmessias)
 
-<h2 align="left" >🖥 Tecnologias</h2>
-<p float="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="52" height="52" >&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="git" width="40" height="44" >&nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="47" height="47" >&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" >&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="git" width="44" height="44" >&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="44" height="44" >&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="44" height="44" >&nbsp;&nbsp;
-<img src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" alt="AWS" width="43" height="43" >&nbsp;&nbsp;
-</p>
+I'm a Back-End Developer with 3+ years of experience, mostly rocking **Node.js** and **AWS** (Serverless stuff included).  
 
-<h2 align="left">📂 Informações</h2>
+I love keeping apps running smoothly, making sure they perform well and are always available. Graduating in Analysis and Systems Development (Unipê), I’m curious about tech and driven to deliver real value through code.  
 
- - [Projetos](https://github.com/eddwardmessias): compilado da introdução dos projetos realizados neste repositório.
- - [Resumos](https://github.com/eddwardmessias): meus das tecnologias que estou estudando.
- - [Certificados](https://github.com/eddwardmessias): não tão imporntante, apenas repositório para guardar arquivos dos mesmos.
-
-
+> ### “Courage calls to courage everywhere.” — Millicent Fawcett.
+---
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) 
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) 
+[![Serverless](https://img.shields.io/badge/Serverless-000000?style=for-the-badge&logo=serverless&logoColor=white)](https://www.serverless.com/) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/dynamodb/) 
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/) 
