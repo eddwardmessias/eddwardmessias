@@ -16,3 +16,9 @@ I love keeping apps running smoothly, making sure they perform well and are alwa
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/dynamodb/) 
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/) 
+
+---
+- REST APIs
+- Software Engineering
+- Trading Bots
+
