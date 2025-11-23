@@ -4,9 +4,10 @@ I'm a Back-End Developer with 3+ years of experience, mostly rocking **Node.js**
 
 I love keeping apps running smoothly, making sure they perform well and are always available. Graduating in Analysis and Systems Development (Unipê), I’m curious about tech and driven to deliver real value through code.  
 
-> ### “Courage calls to courage everywhere.” — Millicent Fawcett.
+> #### “Courage calls to courage everywhere.” — Millicent Fawcett.
 
----
+##
+
 ### Skills
 **Back-End:** TypeScript, JavaScript, Node.js, NestJS, Express.js  
 **Cloud & DevOps:** AWS (Lambda, SQS, S3, CloudWatch), Docker, Serverless Framework, Linux  
@@ -24,7 +25,8 @@ I love keeping apps running smoothly, making sure they perform well and are alwa
 [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/dynamodb/) 
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/) 
 
----
+##
+
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwardmessias)
 
