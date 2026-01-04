@@ -1,4 +1,4 @@
-# Hey there! 👋  
+# Hey there! 👋
 ### About me
 I'm a Back-End Developer with 3+ years of experience, mostly rocking **Node.js** and **AWS** (Serverless stuff included).  
 
